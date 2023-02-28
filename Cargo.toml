@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "bpmn-engine",
+    "bpmn-lib-runner"
+]
